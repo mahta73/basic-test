@@ -1,8 +1,8 @@
-##  basic-test
+#  basic-test
 
 [Basic-test](http://google.com) is an internship test project, which contians two webpages, home and contact-us.
 
-#   Technologies used to develop website
+##   Technologies used to develop website
 * html
 * css (BEM)
 * javascript
